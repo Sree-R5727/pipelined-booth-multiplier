@@ -67,6 +67,29 @@ The reported area reduction is approximately 67.8%, while the reported power red
 
 **DOI:** [10.1109/VLSISATA69163.2026.11610084](https://doi.org/10.1109/VLSISATA69163.2026.11610084)
 
+
+## 📸 Design Gallery
+
+### 1. RTL Simulation Waveform
+Simulation waveform showing multiplier inputs, outputs, and signal transitions.
+
+![RTL Simulation Waveform](rtl_simulation_waveform.png)
+
+### 2. ASIC Physical Layout
+Physical implementation layout generated during the ASIC design flow.
+
+![ASIC Physical Layout](asic_layout.png)
+
+### 3. Booth Encoder Schematic
+Schematic illustrating the Booth encoder control signals: SING, DOUB, and NEG.
+
+![Booth Encoder Schematic](booth_encoder_schematic.png)
+
+### 4. Partial-Product Selector
+Schematic showing the logic used to select and generate partial products.
+
+![Partial-Product Selector](booth_selector.png)
+
 ## Repository Contents
 
 This repository documents the architecture, design methodology, verification approach, implementation flow, and research results. RTL source code and proprietary design files are not included.
